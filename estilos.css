@@ -1,0 +1,193 @@
+
+
+.titulo-principal{
+    padding: 50px;
+    text-align: center; 
+    color: #000000;
+    font-size: 65px;
+    background-image: url('imagenes/portada_imagen1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.header-con-fondo {
+    padding-top: 0px;
+}
+
+#imagen-portada{
+    width: 100%;
+} 
+
+.principal{
+    background: #f1e8b0;
+    padding: 35px;
+}
+
+.titulocentral{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.contenido{
+    font-size: 25px;
+    text-align: center;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 20px;
+
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.botones {
+    display: flex; 
+    list-style-type: none; 
+    padding: 0;
+}
+
+.botones li {
+    flex: 1; 
+    text-align: center;
+}
+
+.imagen-artista img {
+    width: 200px; 
+    height: 250px;
+    margin-top: 10px; 
+}
+
+/*CSS DE LEONARDO*/
+.titulo-principall{
+    padding: 50px;
+    text-align: center; 
+    color: #FFFFFF;
+    font-size: 65px;
+    background-image: url('imagenes/fondoleo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.fondo-imagenl{
+    background-image: url('imagenes/fondoleo2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+}
+
+#imagen-principall{
+    width: 40%; 
+    height: 45%;
+    margin-left: auto; 
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.principall{
+    background: #f1e8b0;
+    padding: 35px;
+    color: #8D0808;
+}
+
+/*CSS DE MARIE*/
+.titulo-principalm{
+    padding: 50px;
+    text-align: center; 
+    color: #FFFFFF;
+    font-size: 65px;
+    background-image: url('imagenes/lavoratorio.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#imagen-principalm{
+    width: 100%; 
+    height: 70%;
+    margin-left: auto; 
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.principalm{
+    background: #B0B0B0;
+    padding: 35px;
+    color: #000000;
+}
+
+
+/*CSS DE NICOLAS*/
+.titulo-principaln{
+    padding: 50px;
+    text-align: center; 
+    color: #FFFFFF;
+    font-size: 65px;
+    background-image: url('imagenes/fondoelec.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#imagen-principaln{
+    width: 100%; 
+    height: 70%;
+    margin-left: auto; 
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.principaln{
+    background: #FFFFFF;
+    padding: 35px;
+    color: #000000;
+}
+
+
+/*CSS DE REMEDIOS*/
+.titulo-principalr{
+    padding: 50px;
+    text-align: center; 
+    color: #FFFFFF;
+    font-size: 65px;
+    background-image: url('imagenes/remedioscaras.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#imagen-principalr{
+    width: 100%; 
+    height: 50%;
+    margin-left: auto; 
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.principalr{
+    background: #f1e8b0;
+    padding: 35px;
+    color: #8D0808;
+}
+
+
+
+
+
+ 
